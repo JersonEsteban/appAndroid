@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="410dp"
+    android:layout_height="730dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/titulo3"
+        android:textColor="@color/blue"
+        android:padding="20dp"
+        android:textSize="40sp"/>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="400dp"
+        android:src="@drawable/principal"
+        android:layout_gravity="center"
+        android:padding="16dp" />
+
+    <Button
+        android:id="@+id/btnSiguiente"
+        android:layout_width="wrap_content"
+
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/titulo4" />
+
+
+
+</LinearLayout>

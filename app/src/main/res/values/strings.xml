@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo1">Menu</string>
+    <string name="titulocolores">Colores</string>
+    <string name="titulo3">Mi App</string>
+    <string name="titulo4">Ingresar</string>
+    <string name="titulo5">Animalees</string>
+    <string name="titulo6">Colores</string>
+    <string name="titulo7">Frutas</string>
+    <string name="titulo8">Perro</string>
+    <string name="titulo9">Gato</string>
+    <string name="titulo10">Loro</string>
+    <string name="titulo11">clc</string>
+</resources>
