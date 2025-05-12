@@ -26,7 +26,7 @@ public class Animales extends AppCompatActivity {
         btnPerro.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                sonidoperro = MediaPlayer.create(Animales.this,R.raw.perros);
+                sonidoperro = MediaPlayer.create(Animales.this,R.raw.dogg);
                 sonidoperro.start();
                 btnPerro.setText("Dog");
             }
