@@ -12,7 +12,7 @@
         android:layout_gravity="center"
         android:textSize="22sp"
         android:padding="16dp"
-        android:textColor="@color/black"
+        android:textColor="@color/teal_700"
         android:layout_marginTop="60dp"
         />
 
@@ -25,7 +25,7 @@
         android:text="@string/titulo5"
         android:padding="16dp"
         android:layout_marginTop="40dp"
-        android:backgroundTint="@color/black"
+        android:backgroundTint="@color/green"
         android:id="@+id/btnAnimales"
         />
 
@@ -37,7 +37,7 @@
         android:text="@string/titulo6"
         android:padding="16dp"
         android:layout_marginTop="40dp"
-        android:backgroundTint="@color/black"/>
+        android:backgroundTint="@color/green"/>
 
     <Button
         android:id="@+id/btnFrutas"
@@ -47,7 +47,7 @@
         android:text="@string/titulo7"
         android:padding="16dp"
         android:layout_marginTop="40dp"
-        android:backgroundTint="@color/black"/>
+        android:backgroundTint="@color/green"/>
 
 
 </LinearLayout>

@@ -11,4 +11,9 @@
     <string name="titulo9">Gato</string>
     <string name="titulo10">Loro</string>
     <string name="titulo11">clc</string>
+    <string name="titulo12">Jugar</string>
+    <string name="titulo13">Aprender</string>
+    <string name="titulo14">Siguiente</string>
+
+    <string name="pregunta11">¿Cual es Dog?</string>
 </resources>
